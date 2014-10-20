@@ -1,0 +1,23 @@
+{
+	"name":        "jack-bower",
+	"version":     "1.0.0",
+	"description": "The name’s Bower. Jack Bower.",
+	"homepage":    "https://github.com/absolunet/jack-bower",
+	"authors":     { "name": "Absolunet", "url": "http://absolunet.com/" },
+
+	"repository":  { "url":   "git://github.com/absolunet/jack-bower.git", "type":"git" },
+	"bugs":        { "url": "https://github.com/absolunet/jack-bower/issues" },
+	"license":     "https://github.com/absolunet/jack-bower/blob/master/LICENSE.md",
+	"main":        "jack.jpg",
+
+	"keywords": [
+		"bower",
+		"jack"
+	],
+
+	"ignore": [],
+
+	"devDependencies": {},
+
+	"dependencies": {}
+}
